@@ -1,0 +1,16 @@
+This is a test sentence.
+Another sentence to test the model.
+Some more words: cat, dog, house, car.
+A short paragraph:
+The sun was shining brightly in the clear blue sky. The birds were singing their sweet melodies. It was a
+beautiful day outside.
+
+A sentence with punctuation: Hello, world! How are you?
+A quote: "Be the change you wish to see in the world." - Mahatma Gandhi
+
+Some numbers: 1, 2, 3, 4, 5
+A list of words:
+apple, banana, cherry, date, elderberry
+
+Another test sentence.
+Even more text to test the model
